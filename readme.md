@@ -10,11 +10,7 @@ Sadly I couldn't work on GUI this time, but can be added in near future.
 Run 'figures.py' to create certain number of trapezoids, rectangles and squares with randomly generated dimensions.
 The number of each figure can be set at the bottom of the file: n_figures = <some integer here>
 
-There are several functions for each above-mentioned approach:
-    generate_figures()
-    threads()
-    multiprocess()
-    mixed()
+There are several functions for each above-mentioned approach: generate_figures(), threads(), multiprocess(), mixed()
 
 ### Observations
 
