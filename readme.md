@@ -18,7 +18,7 @@ There are several functions for each above-mentioned approach:
 
 ### Observations
 
-I have the program for 1000, 10_000, 100_000 and a Million parameters.
+I have run the program for 1000, 10_000, 100_000 and a Million parameters.
 
 Regular loops always outperforms multithreading and multiprocessing.
 
