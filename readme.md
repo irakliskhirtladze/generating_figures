@@ -1,4 +1,4 @@
-# Multiprocessing combined with multithreading
+# Number array generation and calculation with different methods
 
 ### Description
 
